@@ -1,0 +1,12 @@
+# macos
+.DS_Store
+# virtualenv
+.venv
+venv/
+ENV/
+.vscode
+# Django stuff:
+*.log
+settings.py
+
+__pycache__/
